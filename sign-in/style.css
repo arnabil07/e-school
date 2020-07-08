@@ -1,0 +1,40 @@
+
+            /*Container-Area*/
+
+.container-area {
+    height: 500px;
+    width: 700px;
+    background-color:  #7bed9f;
+    margin-top: 200px;
+    margin-left: 600px;
+    border-radius: 10px;
+}
+.sign-in-box  h1{
+    text-align: center;
+    color:   #2f3542;
+    padding-top: 50px;
+}
+.sign-in-box input{
+    border: none;
+    height: 80px;
+    width: 450px;
+    margin-left: 120px;
+    border-radius: 10px;
+}
+#e-mail {
+    margin-top: 50px;
+}
+#password {
+    margin-top: 50px;
+}
+.container-area button{
+    border: none;
+    height: 60px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 230px;
+    color:  white;
+    background-color: #2ed573;
+    font-size: 30px;
+    border-radius: 5px;
+}
